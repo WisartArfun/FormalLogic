@@ -1,0 +1,6 @@
+[package]
+name = "formal_logic"
+version = "0.1.0"
+authors = ["WisartArfun <39859700+WisartArfun@users.noreply.github.com>"]
+
+[dependencies]
